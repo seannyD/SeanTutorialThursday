@@ -1,2 +1,4 @@
 oak
 daffodil
+fern
+rose

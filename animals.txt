@@ -1,5 +1,4 @@
 Donkey
-Shark
 Dolphin
-Barracuda
-Jellyfish
+Monkey
+Baracuda
